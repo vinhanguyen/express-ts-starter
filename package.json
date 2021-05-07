@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vinhanguyen/express-ts-starter/issues"
   },
-  "homepage": "https://github.com/vinhanguyen/express-ts-starter#readme"
+  "homepage": "https://github.com/vinhanguyen/express-ts-starter#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
